@@ -1,0 +1,33 @@
+@font-face {
+  font-family: HYWenHei;
+  src: 
+    url('http://tenkennosoujiro.github.io/genshin-impact.woff2') format('woff2'),
+    url('http://tenkennosoujiro.github.io/genshin-impact.woff') format('woff'),
+    url('http://tenkennosoujiro.github.io/genshin-impact.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: HYWenHei;
+  src: 
+    url('http://tenkennosoujiro.github.io/genshin-impact.woff2') format('woff2'),
+    url('http://tenkennosoujiro.github.io/genshin-impact.woff') format('woff'),
+    url('http://tenkennosoujiro.github.io/genshin-impact.ttf') format('truetype');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: HYWenHei-85W;
+  src:
+    url('http://tenkennosoujiro.github.io/genshin-impact.woff2') format('woff2'),
+    url('http://tenkennosoujiro.github.io/genshin-impact.woff') format('woff'),
+    url('http://tenkennosoujiro.github.io/genshin-impact.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: HYWenHei-85W;
+  src:
+    url('http://tenkennosoujiro.github.io/genshin-impact.woff2') format('woff2'),
+    url('http://tenkennosoujiro.github.io/genshin-impact.woff') format('woff'),
+    url('http://tenkennosoujiro.github.io/genshin-impact.ttf') format('truetype');
+  font-weight: bold;
+}
